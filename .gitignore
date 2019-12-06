@@ -1,0 +1,6 @@
+.vs/**
+x64/**
+cr3/Debug/**
+**.vcxproj.filters
+**.vcxproj.user
+cr3/x64/**
